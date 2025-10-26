@@ -1,5 +1,5 @@
 A beautifully designed, fully responsive calendar application with built-in day-specific reminders and notes. Built using only HTML, CSS, and JavaScript (no dependencies, no installation required).
-(deployment: earnest-daifuku-cee116.netlify.app)
+
 Features
 Professional pastel glassmorphism UI, fully responsive
 
@@ -50,4 +50,4 @@ Credits
 Developed by Shivam Kumar
 Design inspired by modern productivity applications.
 
-
+(deployment: earnest-daifuku-cee116.netlify.app)
