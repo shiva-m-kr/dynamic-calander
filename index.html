@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Smart Calendar & Notes</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <div class="container">
+    <main class="calendar-section">
+      <header class="calendar-header">
+        <button id="prev-month">&#10094;</button>
+        <div id="month-year"></div>
+        <button id="next-month">&#10095;</button>
+      </header>
+      <div class="calendar">
+        <div class="weekdays">
+          <div>Sun</div>
+          <div>Mon</div>
+          <div>Tue</div>
+          <div>Wed</div>
+          <div>Thu</div>
+          <div>Fri</div>
+          <div>Sat</div>
+        </div>
+        <div class="days"></div>
+      </div>
+    </main>
+    <aside class="notes-section">
+      <div id="selected-date"></div>
+      <textarea id="note-input" placeholder="Write your note or reminder here..."></textarea>
+      <button id="save-note">Save Note</button>
+      <div id="notes-list"></div>
+    </aside>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
