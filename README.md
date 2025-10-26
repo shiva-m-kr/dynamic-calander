@@ -50,4 +50,5 @@ Credits
 Developed by Shivam Kumar
 Design inspired by modern productivity applications.
 
-(deployment: earnest-daifuku-cee116.netlify.app)
+🔗 **Live Demo:** [Open calander Project](https://earnest-daifuku-cee116.netlify.app)
+
